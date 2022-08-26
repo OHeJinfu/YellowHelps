@@ -1,7 +1,7 @@
 {
-  "alway": true,
-  "title": "严正声明_禁止倒卖",
-  "intro":"此为『闲鱼@你遗憾过吧』自改版！",
+  "alway": false,
+  "title": "严正声明",
+  "intro":"当前软件版本免费使用，仅作为学习交流，请勿售卖！！！",
   "exit": false,
   "show": true,
   "f": true,
