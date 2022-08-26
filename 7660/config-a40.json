@@ -11,7 +11,7 @@
 	"dialogExit": false,
 	"dialogTime": 0,
 	"updateInfo": {
-		"u": true,
+		"u": false,
 		"f": false,
 		"vn": "1.4.0",
 		"vc": 42,
